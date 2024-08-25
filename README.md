@@ -6,7 +6,7 @@ vagrant-libvirt-distrobox is a distrobox and toolbox ready container with vagran
 
 It's a base image and action for Toolbox and Distrobox.
 
-This image is born out of "cloud native" approach to this.
+This image is born out of "cloud native" approach to things.
 
 ### How to use
 
