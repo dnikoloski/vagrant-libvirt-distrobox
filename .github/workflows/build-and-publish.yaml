@@ -1,4 +1,4 @@
-name: build-boxkit
+name: build-vagrant-libvirt
 on:
   pull_request:
     branches:
